@@ -23,6 +23,9 @@ Finalmente muestro la documentación asociada a la configuración correcta del e
 **Conexión SSH configurada**
 ![Conexión SSH](docs/ssh_conf.png)
 
+**Repositorio Conectado Mediante SSH**
+![Repositorio Conectado Mediante SSH](docs/ssh_git.png)
+
 **Nombre y Correo configurados para git**
 ![Configuración de nombre y correo en git](docs/git_email_name.png)
 
