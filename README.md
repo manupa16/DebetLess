@@ -30,7 +30,10 @@ Finalmente muestro la documentación asociada a la configuración correcta del e
 ![Configuración de nombre y correo en git](docs/git_email_name.png)
 
 **Avatar de GitHub**
-
 ![Avatar de GitHub](docs/github_avatar.png)
+
+## Documentación adicional
+
+[Fuentes de datos y heurística](docs/datos.md)
 
 
